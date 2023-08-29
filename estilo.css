@@ -1,0 +1,89 @@
+body{ background-color: brown;
+}
+
+.bandera {
+    background-color: beige ;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black ;
+}
+
+.ale1 {background-color: black;
+    height: 33.33%;
+    }
+.ale2 {background-color: red;
+    height: 33.33%;
+    }
+.ale3 {background-color: gold;
+    height: 33.33%;
+    }
+
+.nig1 {background-color: green;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    }
+.nig2 {background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    }
+.nig3 {background-color: green;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    }
+
+.rom1 {background-color: blue;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+.rom2 {background-color:yellow;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+.rom3 {background-color:red ;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+
+.peru1 {background-color: red;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+.peru2 {background-color: white;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+.peru3 {background-color:red ;
+        width: 33.33%;
+        height: 100%;
+        float: left;
+        }
+.boli1 {background-color: red ;
+        height: 33.33%;
+        }
+.boli2 {background-color: yellow ;
+        height: 33.33%;
+        }
+.boli3 {background-color: green;
+        height: 33.33%;
+        }
+.yem1 {background-color: red ;
+            height: 33.33%;
+            }
+.yem2 {background-color: white ;
+            height: 33.33%;
+            }
+.yem3 {background-color: black;
+            height: 33.33%;
+            }
